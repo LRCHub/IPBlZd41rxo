@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ねぇ/ たつや◎",
+  "base_track": "ねぇ",
   "base_artist": "たつや◎",
-  "createdAt": "2025-12-13T12:47:20.928192Z",
+  "createdAt": "2026-03-31T02:50:26.051334Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -31,58 +31,58 @@
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "ねぇ",
-      "artist": "navy&ivory",
-      "has_synced": false,
-      "path": "select/04_ねぇ_navy&ivory.txt"
+      "title": "Nee [ねぇ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/04_Nee_[ねぇ]_Perfume.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "ねぇ",
-      "artist": "Fujita, Maiko",
+      "title": "ねぇ、…しようよっ!",
+      "artist": "KOTOKO",
       "has_synced": true,
-      "path": "select/05_ねぇ_Fujita,_Maiko.lrc"
+      "path": "select/05_ねぇ、...しようよっ!_KOTOKO.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "ねぇ",
-      "artist": "Perfume",
+      "title": "ねぇ、…しようよ!",
+      "artist": "KOTOKO",
       "has_synced": true,
-      "path": "select/06_ねぇ_Perfume.lrc"
+      "path": "select/06_ねぇ、...しようよ!_KOTOKO.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Nee [ねぇ]",
-      "artist": "Perfume",
-      "has_synced": true,
-      "path": "select/07_Nee_[ねぇ]_Perfume.lrc"
+      "title": "ねぇ",
+      "artist": "navy&ivory",
+      "has_synced": false,
+      "path": "select/07_ねぇ_navy&ivory.txt"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "ねぇ、…しようよっ!",
-      "artist": "KOTOKO",
+      "title": "ねぇ",
+      "artist": "Fujita, Maiko",
       "has_synced": true,
-      "path": "select/08_ねぇ、...しようよっ!_KOTOKO.lrc"
+      "path": "select/08_ねぇ_Fujita,_Maiko.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "ねぇ、…しようよ!",
-      "artist": "KOTOKO",
+      "title": "「ねぇ、神様?」 (「Hey, God?」)",
+      "artist": "Oresama",
       "has_synced": true,
-      "path": "select/09_ねぇ、...しようよ!_KOTOKO.lrc"
+      "path": "select/09_「ねぇ、神様_」_(「Hey,_God_」)_Oresama.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "「ねぇ、神様?」 (「Hey, God?」)",
-      "artist": "Oresama",
+      "title": "ねぇ",
+      "artist": "Perfume",
       "has_synced": true,
-      "path": "select/10_「ねぇ、神様_」_(「Hey,_God_」)_Oresama.lrc"
+      "path": "select/10_ねぇ_Perfume.lrc"
     },
     {
       "id": "lrclib_11",
@@ -99,6 +99,15 @@
       "artist": "たつや◎",
       "has_synced": false,
       "path": "select/pl_01_ねぇ_たつや◎.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ねぇ",
+      "artist": "たつや◎",
+      "has_synced": false,
+      "path": "select/localdb_01_ねぇ_たつや◎.txt",
+      "repo_name": "IPBlZd41rxo"
     }
   ]
 }
